@@ -1,0 +1,5 @@
+{
+  "name": "MarineGuard AI: Marine Debris Detection & Research System",
+  "description": "An advanced AI-powered platform for detecting and segmenting marine debris in ocean imagery, featuring research-grade metrics, explainability tools, and IEEE-ready documentation.",
+  "requestFramePermissions": []
+}
